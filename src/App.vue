@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <router-view />
+    <div>
+      <i class="iconfont icon-shipin"></i>
+    </div>
   </div>
 </template>
 
